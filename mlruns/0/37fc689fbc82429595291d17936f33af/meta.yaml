@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/meetsoni/BITS/BITS%20SEM%203/MLOps/Assignment/mlops_mlflow_dvc/mlops_mlflow_dvc_assignment/mlruns/0/37fc689fbc82429595291d17936f33af/artifacts
+end_time: 1738483518754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37fc689fbc82429595291d17936f33af
+run_name: Experiment 1
+run_uuid: 37fc689fbc82429595291d17936f33af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738483516732
+status: 3
+tags: []
+user_id: meetsoni
